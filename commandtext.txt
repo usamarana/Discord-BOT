@@ -1,0 +1,14 @@
+BOT Commands:
+- !userinfo "tag the user" (or don't tag anyone to see own info)
+- !serverinfo
+- !botinfo
+
+ADMIN ONLY COMMANDS:
+- !join (joins voice chat)
+- !leave (leaves voice chat)
+- !message "message content" (will send the message to the specfic channel)
+- !dm "tag the user" (or don't tag anyone to private message yourself)
+- !delete "number of messages"
+- !kick "tag the user"
+
+...More commands under development!
