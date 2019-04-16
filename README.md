@@ -3,6 +3,7 @@ A discord bot built in JavaScript which performs various commands given by the u
 
 ## BOT Functionality Showcase:
 Click [here](https://www.youtube.com/watch?v=XRDYoyzbYnE&t) or the image below to see a video demonstration of how the bot works.
+
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/0Pb4ggw.jpg)](https://www.youtube.com/watch?v=XRDYoyzbYnE&t)
 
 **NOTE:**
